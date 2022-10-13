@@ -1,0 +1,16 @@
+###### Requirements without Version Specifiers ######
+
+click
+datetime
+pyfiglet
+colorama
+time
+subprocess
+progressbar
+pathlib
+socket
+os
+requests
+fpdf
+
+###### Requirements with Version Specifiers ######
