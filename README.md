@@ -26,7 +26,7 @@ OpenVas :
 ## Modules Installation  
 
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install modules if you need to install.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install modules/tool :
 
 ```bash
 sudo pip3 install <Module_Name>
@@ -34,7 +34,7 @@ sudo pip3 install <Module_Name>
 
 ## Installation
 
-Before the instalation , you must to install : :
+Before the instalation , you must install : :
 
 - Go to auTTest Folder and run :
 
@@ -56,7 +56,7 @@ sudo pip3 install -e .
 
 
 ## Usage
-- Just type auTTest in terminal and pres enter :
+- Just type auTTest in terminal and press enter :
 ```bash
 auTTest
 ```
@@ -64,7 +64,7 @@ auTTest
 
 
 ## Report
-- You will find the report of scan in your home dire under : ~/auTTest/Report
+- You will find the report of scan in your home dire under   :   ~/auTTest/Report
 
 
 ## Uninstall 
